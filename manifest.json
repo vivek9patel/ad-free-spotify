@@ -6,7 +6,7 @@
   "background": {
     "service_worker": "background.js"
   },
-  "permissions": ["activeTab","tabs"],
+  "permissions": ["activeTab","tabs","storage"],
   "content_scripts": [
     {
       "matches": ["https://open.spotify.com/*"],

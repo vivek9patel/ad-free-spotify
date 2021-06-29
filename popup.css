@@ -1,0 +1,13 @@
+html, body{
+    margin:  0;
+    padding: 0;
+    overflow: hidden;
+}
+.popup-container{
+    min-width: 200px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
