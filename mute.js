@@ -25,4 +25,4 @@ let interval = window.setInterval(() => {
             console.log(e)
         }
     }
-}, 3000);
+}, 2000);
