@@ -2,7 +2,7 @@
 
 Chrome extension to automatically mute/unmute Spotify tab when there's an Advertisement starts or ends.
 
-# How to install
+## How to install
 
 - Download Zip file from github repository & unzip it
 - Place it anywhere on your system or Create directory for extensions
